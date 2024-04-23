@@ -1,6 +1,6 @@
 # Everybody Knows A Shorts Guy
 
-#### But here's a little more info about this one.
+### But here's a little more info about this one.
 
 I've done __many__ things in my life.
 
